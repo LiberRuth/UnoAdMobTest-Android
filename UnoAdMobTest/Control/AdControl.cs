@@ -3,7 +3,7 @@ using Android.Gms.Ads;
 using Android.Widget;
 #endif
 using System.Collections.Generic;
-using Microsoft.UI.Xaml.Controls; // 또는 적절한 네임스페이스
+using Microsoft.UI.Xaml.Controls;
 
 namespace UnoAdMobTest.Control;
 
